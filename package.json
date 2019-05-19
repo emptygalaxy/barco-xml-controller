@@ -1,0 +1,25 @@
+{
+  "name": "barco-xml-controller",
+  "version": "0.1.15",
+  "description": "Node controller for Barco EventManager",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/emptygalaxy/barco-xml-controller.git"
+  },
+  "keywords": [
+    "barco"
+  ],
+  "author": "Nick Timman <info@emptygalaxy.com> (https://emptygalaxy.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emptygalaxy/barco-xml-controller/issues"
+  },
+  "homepage": "https://github.com/emptygalaxy/barco-xml-controller#readme",
+  "dependencies": {
+    "net": "*"
+  }
+}
